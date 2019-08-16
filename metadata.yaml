@@ -1,5 +1,5 @@
 _repo: Cecilia-of-the-Pink-Roses_60099
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Preston, May Wilson
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1949
     gutenberg_agent_id: '7318'
     url: http://www.gutenberg.org/2009/agents/7318
+covers:
+- cover_type: archival
+  image_path: 60099-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Taylor, Katharine Haviland
     gutenberg_agent_id: '50791'
     url: http://www.gutenberg.org/2009/agents/50791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60099#Cecilia-of-the-Pink-Roses
 gutenberg_issued: '2019-08-14'
 gutenberg_type: Text
 identifiers:
